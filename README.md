@@ -1,7 +1,7 @@
 # Python Exercise 07
 
 ## Exercise 1
-1. Go to this website:
+1. Go to this website: https://sexualitics.github.io/
 2. 
 3. 
 
