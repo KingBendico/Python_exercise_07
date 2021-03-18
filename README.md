@@ -7,13 +7,13 @@
 1. Import your module to your Jupyter notebook. 
 2. Make an instance of your class with the following url: https://www.pricerunner.dk/cl/37/Grafikkort
 3. Find graphics cards from Nvidia.
-4. Find the most popular graphic processor (2080, 3070, etc.). 
-5. Find all graphics cards with the given processor and store the result in a local dataset. 
+4. Find the most popular graphics processing unit (2080, 3070, etc.). 
+5. Store the result in a local dataset. 
 
 ## Exercise 3
 1. Given the result from exercise 2, find the five cheapest cards across brands, and show them in a plot chart, with ‘name’ on the x-axis and ‘price’ on the y-axis.
 2. For the cheapest card, find out which dealers are trading it, and what the average price is. (Hint: new search/webscrape)
-3. Find the brand with the card that has the biggest difference in list price.
+3. Find the brand with the GPU that has the biggest difference in list price.
 
 #### By Group 1, E:
 - Benjamin Choleva (cph-bc105@cphbusiness.dk)
