@@ -1,7 +1,7 @@
 # Python Exercise 07
 
 ## Exercise 1
-1. Create a python module with a class called Webscraper that implements an init(self,URL) and functions that uses Selenium, BeautifulSoup and Regex needed to solve Exercise 2 (and 3). Furthermore, let the data be stored in class variables, so that results are easily accessed via objects. 
+1. Create a Python module with a class called Webscraper that implements an init(self,URL) and functions that use Selenium, BeautifulSoup and Regex needed to solve Exercise 2 (and 3). Furthermore, let the data be stored in class variables, so that results are easily accessed via objects. 
 
 ## Exercise 2
 1. Import your module to your Jupyter notebook. 
