@@ -5,7 +5,7 @@
 
 ## Exercise 2
 1. Import your module to your Jupyter notebook. 
-2. Make an instance of your class with url: https://www.pricerunner.dk/cl/37/Grafikkort
+2. Make an instance of your class with the following url: https://www.pricerunner.dk/cl/37/Grafikkort
 3. Find graphics cards from Nvidia.
 4. Find the most popular graphic processor (2080, 3070, etc.). 
 5. Find all graphics cards with the given processor and store the result in a local dataset. 
